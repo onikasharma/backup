@@ -1,0 +1,25 @@
+{
+    "Users" : [
+        {
+         "id": 1,
+        "name": "Onika Sharma",
+        "email": "onika@gmail.com",
+        "phone": "7909088917"
+        },
+
+        {
+            "id": 2,
+           "name": "kriti Sharma",
+           "email": "Kriti@gmail.com",
+           "phone": "9031469596"
+           },
+
+           {
+            "id": 3,
+           "name": "Abhihek Sharma",
+           "email": "Abhi@gmail.com",
+           "phone": "7903830179"
+           }
+
+    ]
+}
